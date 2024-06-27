@@ -1,1 +1,1 @@
-query_id
+query_id=AAG_bYYPAwAAAL9thg_w4NaA&user=%7B%22id%22%3A6702919103%2C%22first_name%22%3A%22Demas%22%2C%22last_name%22%3A%22Ibrahim%22%2C%22username%22%3A%22Desmannib%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719501928&hash=a32cd2a155a891d16a7114124df9ee5de768352ae2f4dd0f613fcdd6e3376d5c
